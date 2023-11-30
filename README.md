@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate game developer from Catalunya</h3>
+<h1 align="center">Hi 👋, I'm Alex Garcia Selma</h1>
+<h3 align="center">A passionate VideoGame Developer from Catalonia</h3>
+
+- 📫 How to reach me **algarselma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/alexgacisel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/alexgacisel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-garcia-selma-669b4527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-garcia-selma-669b4527a/" height="30" width="40" /></a>
 </p>
 
