@@ -2,7 +2,7 @@
 <h3 align="center">A passionate VideoGame Developer from Catalonia</h3>
 
 - 📫 How to reach me **algarselma@gmail.com**
-- Portfolio **maralgs.github.io**
+- Portfolio <a href="https://maralgs.itch.io/" target="blank">**maralgs.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
